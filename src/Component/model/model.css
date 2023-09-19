@@ -101,7 +101,7 @@
     display: inline-block;
 }
 /* media quaris */
-@media (max-width:920) {
+@media (max-width:920px) {
     .model-content-img{
         width: 30%;
     }
@@ -112,7 +112,7 @@
         font-size: 21px;
     }
 }
-@media (max-width:720) {
+@media (max-width:720px) {
     .modal-content{
         height: auto;
         width: 90%;
